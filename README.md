@@ -4,7 +4,7 @@
 
 📍 Sri Lanka  
 📧 saranaga@example.com  
-🔗 [GitHub](https://github.com/saranaga) | [LinkedIn](https://linkedin.com/in/saranaga) | [Portfolio Website](https://saranaga.dev)
+🔗 [GitHub]([https://github.com/saranaga](https://github.com/AsekaSL)) | [LinkedIn]([https://linkedin.com/in/saranaga](https://www.linkedin.com/in/saranga-samarakoon-77791427b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoHZn4uGxRHKzPW702HomwQ%3D%3D)) | [Portfolio Website]([https://saranaga.dev](https://asekasl.github.io/Portfolio/))
 
 ---
 
@@ -32,7 +32,7 @@ A web-based portal to manage student attendance with role-based access for admin
 
 - Features: Registration, Attendance tracking, Group-wise attendance, Admin panel
 - Technologies: PHP, MySQL, JS, HTML/CSS
-- GitHub: [View Project](https://github.com/saranaga/student-attendance-portal)
+- GitHub: [View Project]([https://github.com/saranaga/student-attendance-portal](https://github.com/AsekaSL/portal))
 
 ---
 
@@ -42,7 +42,7 @@ An inventory and e-commerce solution for vegetable vendors. Built initially as a
 - Features: Admin dashboard, User shopping cart, Payment simulation, JWT Auth
 - Tech Stack: MongoDB, Express.js, React, Node.js
 - UI: Designed in Figma for a clean user experience
-- GitHub: [View Project](https://github.com/saranaga/greenmart)
+- GitHub: [View Project]([https://github.com/saranaga/greenmart](https://github.com/AsekaSL/GreenMart))
 
 ---
 
@@ -66,8 +66,8 @@ A desktop-based Point of Sale application with customer and order management, da
 ## 📚 Education
 
 **BSc in Software Engineering**  
-University of [Your University Name], Sri Lanka  
-2021 – Present
+University of Sri Jayawardenapura, Sri Lanka  
+2024 – Present
 
 ---
 
@@ -81,7 +81,7 @@ University of [Your University Name], Sri Lanka
 
 ## 🤝 Let's Connect
 
-I'm always open to collaboration on exciting projects or freelance work. Feel free to reach out via [email](mailto:saranaga@example.com) or message me on [LinkedIn](https://linkedin.com/in/saranaga).
+I'm always open to collaboration on exciting projects or freelance work. Feel free to reach out via [email](mailto:saranaga@example.com) or message me on [LinkedIn]([https://linkedin.com/in/saranaga](https://www.linkedin.com/in/saranga-samarakoon-77791427b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoHZn4uGxRHKzPW702HomwQ%3D%3D)).
 
 ---
 
