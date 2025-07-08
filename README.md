@@ -32,7 +32,7 @@ A web-based portal to manage student attendance with role-based access for admin
 
 - Features: Registration, Attendance tracking, Group-wise attendance, Admin panel
 - Technologies: PHP, MySQL, JS, HTML/CSS
-- GitHub: [View Project]([https://github.com/saranaga/student-attendance-portal](https://github.com/AsekaSL/portal))
+- GitHub: [View Project](https://github.com/saranaga/student-attendance-portal](https://github.com/AsekaSL/portal)
 
 ---
 
@@ -42,7 +42,7 @@ An inventory and e-commerce solution for vegetable vendors. Built initially as a
 - Features: Admin dashboard, User shopping cart, Payment simulation, JWT Auth
 - Tech Stack: MongoDB, Express.js, React, Node.js
 - UI: Designed in Figma for a clean user experience
-- GitHub: [View Project]([https://github.com/saranaga/greenmart](https://github.com/AsekaSL/GreenMart))
+- GitHub: [View Project](https://github.com/saranaga/greenmart](https://github.com/AsekaSL/GreenMart)
 
 ---
 
