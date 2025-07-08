@@ -4,7 +4,7 @@
 
 📍 Sri Lanka  
 📧 saranaga@example.com  
-🔗 [GitHub]([https://github.com/saranaga](https://github.com/AsekaSL)) | [LinkedIn]([https://linkedin.com/in/saranaga](https://www.linkedin.com/in/saranga-samarakoon-77791427b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoHZn4uGxRHKzPW702HomwQ%3D%3D)) | [Portfolio Website]([https://saranaga.dev](https://asekasl.github.io/Portfolio/))
+🔗 [GitHub](https://github.com/saranaga](https://github.com/AsekaSL)) | [LinkedIn]([https://linkedin.com/in/saranaga](https://www.linkedin.com/in/saranga-samarakoon-77791427b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoHZn4uGxRHKzPW702HomwQ%3D%3D) | [Portfolio Website](https://saranaga.dev](https://asekasl.github.io/Portfolio/)
 
 ---
 
